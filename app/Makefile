@@ -15,5 +15,3 @@ test:
 
 heroku-logs:
 	heroku logs --tail
-
-.PHONY: test lint start setup dev heroku-logs
